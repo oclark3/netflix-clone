@@ -12,4 +12,4 @@ This project highlights key web development concepts, including:
 
 ## Purpose
 
-This repository documents the process of building a functional Netflix clone, focusing on learning advanced React features, API integration, and user authentication. It serves as both a portfolio piece and a hands-on exercise in web application development.
+This repository documents the process of building a functional Netflix clone, focusing on learning advanced React features, API integration, and user authentication. It serves as a hands-on exercise in web application development.
